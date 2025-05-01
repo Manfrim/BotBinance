@@ -1,0 +1,15 @@
+2025/04/30-14:52:45.830 9390 Reusing MANIFEST C:\Users\manfr\Desktop\BotBinance\tokens\bot-binance\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/30-14:52:45.831 9390 Recovering log #159
+2025/04/30-14:52:45.855 9390 Reusing old log C:\Users\manfr\Desktop\BotBinance\tokens\bot-binance\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000159.log 
+2025/04/30-14:52:47.994 963c Level-0 table #165: started
+2025/04/30-14:52:48.006 963c Level-0 table #165: 197310 bytes OK
+2025/04/30-14:52:48.009 963c Delete type=0 #159
+2025/04/30-14:52:48.012 963c Manual compaction at level-0 from '\x006\x00\x00\x00' @ 72057594037927935 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/30-14:52:50.435 963c Compacting 1@1 + 2@2 files
+2025/04/30-14:52:50.588 963c Generated table #166@1: 52133 keys, 2220643 bytes
+2025/04/30-14:52:50.620 963c Generated table #167@1: 18955 keys, 388741 bytes
+2025/04/30-14:52:50.620 963c Compacted 1@1 + 2@2 files => 2609384 bytes
+2025/04/30-14:52:50.621 963c compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/04/30-14:52:50.622 963c Delete type=2 #161
+2025/04/30-14:52:50.622 963c Delete type=2 #162
+2025/04/30-14:52:50.622 963c Delete type=2 #165
